@@ -1,0 +1,167 @@
+.main-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+  }
+  .login-cont {
+    padding: 50px;
+    box-shadow: 0px 4px 16px 0px #7b879429;
+    border-radius: 8px;
+  }
+  .login-cont-logo-cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .input-cont-one {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-cont-two {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .nxt {
+    font-family: 'Futura Md BT';
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+  }
+  
+  .name {
+    font-family: 'Futura Md BT';
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+  }
+  .signup-name{
+    font-size: 24px;
+    font-family: roboto;
+    font-style: italic;
+  }
+  .input-label {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #7e858e;
+  }
+  
+  .input-urr-pss {
+    border-radius: 2px;
+   
+    border: 1px solid #d7dfe9;
+    width: 312px;
+    height: 64px;
+    top: 238px;
+    left: 24px;
+  }
+  
+  .input-cont {
+    width: 312px;
+    height: 64px;
+    top: 238px;
+    left: 24px;
+    margin-top: 20px;
+    width: 98px;
+    height: 56px;
+    top: 134px;
+    left: 131px;
+  }
+  
+  .show-password-cont {
+    width: 124px;
+    height: 24px;
+    top: 394px;
+    left: 24px;
+    padding: 0px, 5px, 0px, 0px;
+    display: flex;
+    align-items: center;
+  }
+  .input-pass-txt {
+    font-family: 'HK Grotesk';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+  }
+  
+  .button {
+    font-family: Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffffff;
+    background-color: transparent;
+    width: 312px;
+    height: 40px;
+    border-radius: 8px;
+    box-shadow: none;
+    border-width: 0px;
+    cursor: pointer;
+  }
+  
+  .button-cont {
+    width: 312px;
+    height: 40px;
+    top: 466px;
+    left: 24px;
+    background-color: #263868;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .input-pss {
+    width: 16px;
+    height: 16px;
+    top: 4px;
+  }
+
+  .signup-para{
+    text-align: center;
+  }
+
+  .signup-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .error-msg {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ef4444;
+  }
+  .blue-para:hover {
+    cursor: pointer;
+  }
+  .blue-para{
+    color: #007bff;
+    font-size: 24px;
+  }
+  .name{
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+  }
